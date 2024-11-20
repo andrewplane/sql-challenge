@@ -13,3 +13,6 @@ Andrew Lane
 
 -Rebuilt DB and each table with revised primary keys
 
+-Updated ERD
+
+-Challenge Completed
